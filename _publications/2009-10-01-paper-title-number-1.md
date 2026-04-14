@@ -7,7 +7,7 @@ excerpt: 'Undergraduate thesis work. Involvement of Geological sciences to agric
 date: 2025-09-11
 venue: 'Universidad de Chile'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://academicpages.github.io/files/Terrazas del Maipo_ Terroir, Geologia de sitio y Entorno y su efecto en la calidad de suelos.pdf'
 bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
 citation: 'Fornes Graell, Javier, Townley Callejas, B., Vargas Soto, S., Castillo Lagos, P., Deckart, K. (2025). &quot;Paper Title Number 1.&quot; <i>Universidad de Chile</i>. 1(1).'
 ---
