@@ -26,7 +26,7 @@ After finishing this work, which involves a los of CSS, HTML and JS, I intend to
 
 What should you get out of my website
 ------
-It really depends on your profile. If you are a company/enterprise looking at my Portfolio, I kindly suggest that you get my contact information, as well as my [CV page](https://academicpages.github.io/cv) and Publications, to look up my main works and skillset and how they relate to your company. You can also see some of my private life information published, so you can see you are dealing with an integral person. 
+It really depends on your profile. If you are a company/enterprise looking at my Portfolio, I kindly suggest that you get my contact information, as well as my [CV page](https://github.com/Javier-Fornes-Graell/Javier-Fornes-Graell.github.io/blob/b2cd495b93326784dafd9dfc3d37b3349720ee1f/_pages/cv.md) and Publications, to look up my main works and skillset and how they relate to your company. You can also see some of my private life information published, so you can see you are dealing with an integral person. 
 If you are a professor looking at my profile, I have a Teaching area, as well as some more details on my research projects like Fluid Inclusion Preparation and analysis. And also, I published some of my thesis work in here, if you look for more information about it, you can email me to get a complete version.  
 If you do not enter on the other two categories, maybe you will be interested on my Obsidian project? Email me too !
 
