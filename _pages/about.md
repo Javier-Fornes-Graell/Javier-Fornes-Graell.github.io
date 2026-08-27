@@ -12,23 +12,27 @@ You'll find here my publications, work around them, my full portfolio and more, 
 
 **Who am I?** 
 ======
-Chilean geologist, I love my career, the outdoors, climbing and some other nerd-like activities like making this website. Actually looking for a job mainly, but I do not discard the option of further postgraduate research. I intend to have this place to show all of my skills, works and market related competencies for future relation. 
+Chilean geologist, I love my career, the outdoors, climbing and some other activities posted on "Blog" Section". I have this place to show all of my skills, works and market related competencies for future relation. 
 
-For starters, my competencies, academic background, works and upbringing relate to 3 main Geology concepts: Applied Geochemistry, Fieldwork and Economic Geology
+I have experience in mineral exploration, geological mapping, sampling, core logging, geochemistry, QA/QC and multidisciplinary geological projects.
 
+My work focuses on integrating field observations, geological data, geochemistry and digital tools to develop geological interpretations and support exploration decisions.
 
-
-Main focuses
+Core Competencies
 ======
-I intend to direct my career to a Geochemistry/Economic Geology main line, focusing on work related to mineral exploration, better usage, or elemental vectors for different commodities. In the meantime, my background helps me understand a lot of the elemental-mineral interactions in the Critical Zone, which can be a really helpful tool for remediations, hidrogeochemistry, enviromentally focused work and applied geochemistry.
+Exploration · Mapping · Sampling · Core Logging · Alteration · Geochemistry · QA/QC
+
+Modelling · GIS · Remote Sensing · Leapfrog Geo · Vulcan 
+
+Data · Python · SQL · Excel · Statistical Analysis
+
+$% I intend to direct my career to a Geochemistry/Economic Geology main line, focusing on work related to mineral exploration, better usage, or elemental vectors for different commodities. In the meantime, my background helps me understand a lot of the elemental-mineral interactions in the Critical Zone, which can be a really helpful tool for remediations, hidrogeochemistry, enviromentally focused work and applied geochemistry.
 
 After finishing this work, which involves a los of CSS, HTML and JS, I intend to better refine software skills in Vulcan and to finish up a repository of geological concepts learned through my career on a Obsidian based dataset which will be imported on a website too. 
 
-What should you get out of my website
+Currently
 ------
-It really depends on your profile. If you are a company/enterprise looking at my Portfolio, I kindly suggest that you get my contact information, as well as my [CV page](https://javier-fornes-graell.github.io/cv/) and Publications, to look up my main works and skillset and how they relate to your company. You can also see some of my private life information published, so you can see you are dealing with an integral person. 
-If you are a professor looking at my profile, I have a Teaching area, as well as some more details on my research projects like Fluid Inclusion Preparation and analysis. And also, I published some of my thesis work in here, if you look for more information about it, you can email me to get a complete version.  
-If you do not enter on the other two categories, maybe you will be interested on my Obsidian project? Email me too !
+Seeking opportunities in mineral exploration, economic geology and applied geoscience. Open to relocation internationally. Building up skills and databases of profesional and personal nature.
 
 
 For more info on how to build your website
