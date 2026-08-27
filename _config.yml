@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "dirt" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Javier Fornes Graell"
 title_separator          : "-"
 name                     : &name "Javier F. Graell"
@@ -26,9 +26,9 @@ author:
   avatar           : "1000138576.jpg"
   name             : "Javier Fornes Graell"
   pronouns         : # example: "she/her"  
-  bio              : "Geologist with a curiosity as deep as Earth's Mantle"
-  location         : "Santiago, Chile, available to relocate"
-  employer         : "On the lookout for new job oportunities"
+  bio              : "Geologist | Mineral Exploration | Applied Geochemistry | Geological Modelling"
+  location         : "Chilean Geologist based in Santiago, Chile \ Open to international opportunities and relocation"
+  employer         : "Seeking opportunities in mineral exploration, economic geology and applied geoscience."
   uri              : # URL
   email            : "javier.fornes@ug.uchile.cl" 
 
