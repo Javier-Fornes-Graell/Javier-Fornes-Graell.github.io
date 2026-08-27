@@ -23,12 +23,12 @@ repository               : "javier-fornes-graell/Javier-Fornes-Graell.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "1000138576.jpg"
+  name             : "Javier Fornes Graell"
   pronouns         : # example: "she/her"  
   bio              : "Geologist with a curiosity as deep as Earth's Mantle"
-  location         : "Santiago, Chile"
-  employer         : "On the lookout"
+  location         : "Santiago, Chile, available to relocate"
+  employer         : "On the lookout for new job oportunities"
   uri              : # URL
   email            : "javier.fornes@ug.uchile.cl" 
 
