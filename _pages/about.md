@@ -26,7 +26,7 @@ Modelling · GIS · Remote Sensing · Leapfrog Geo · Vulcan
 
 Data · Python · SQL · Excel · Statistical Analysis
 
-$% I intend to direct my career to a Geochemistry/Economic Geology main line, focusing on work related to mineral exploration, better usage, or elemental vectors for different commodities. In the meantime, my background helps me understand a lot of the elemental-mineral interactions in the Critical Zone, which can be a really helpful tool for remediations, hidrogeochemistry, enviromentally focused work and applied geochemistry.
+I intend to direct my career to a Geochemistry/Economic Geology main line, focusing on work related to mineral exploration, better usage, or elemental vectors for different commodities. In the meantime, my background helps me understand a lot of the elemental-mineral interactions in the Critical Zone, which can be a really helpful tool for remediations, hidrogeochemistry, enviromentally focused work and applied geochemistry.
 
 After finishing this work, which involves a los of CSS, HTML and JS, I intend to better refine software skills in Vulcan and to finish up a repository of geological concepts learned through my career on a Obsidian based dataset which will be imported on a website too. 
 
